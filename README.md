@@ -25,9 +25,8 @@ pip install ultralytics
 pip install roboflow
 ```
 
-### Data Preparation
-- Change the root path to your project directory.
-- Discover the dataset and visualize class counts in the training, testing, and validation sets.
+### Data
+- The dataset was found on robooflow website
 
 ### Training
 - Choose the YOLOv8 model configuration.
