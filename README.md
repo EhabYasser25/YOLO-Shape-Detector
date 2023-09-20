@@ -28,11 +28,11 @@ pip install roboflow
 <br>
 
 ## Data
-- The dataset can be accessed on the [Roboflow website](https://universe.roboflow.com/musa-almaz-p7onb/suas-shape-detection/dataset/1/images/?split=train&numImages=40).
+- The dataset can be accessed on the [Roboflow Dataset](https://universe.roboflow.com/musa-almaz-p7onb/suas-shape-detection/dataset/1/images/?split=train&numImages=40).
 - The total images are 2000 (1700 train, 200 validation, 100 testing)
 - The dataset contains 13 classes ['circle', 'cross', 'heptagon', 'hexagon', 'octagon', 'pentagon', 'quartercircle', 'rect', 'semicircle', 'square', 'star', 'trapezoid', 'triangle']
 
-![image](https://github.com/EhabYasser25/YOLO-Shape-Detector/assets/97472134/ac50805a-48b1-45de-a1d6-c8e709914bd3)
+![image](https://github.com/EhabYasser25/YOLO-Shape-Detector/assets/97472134/74efc5dd-4da4-4743-af18-15d0c1da32d2)
 <br>
 <br>
 <br>
@@ -93,3 +93,8 @@ The output image
 ## Encountered Challenges
 - Obtaining the Mean Average Precision (mAP) or any measure of accuracy for the testing datasets proved to be challenging.
 - Implementing the inference code presented its own set of difficulties; however, I was able to overcome them with a little complex way.
+
+## Contact
+If you have any questions, suggestions, or would like to contribute to this project, please feel free to reach out.<br>
+We hope you find this project valuable and look forward to your involvement in its development😊.<br>
+[Google Colab Notebook](https://colab.research.google.com/drive/1wmgZaqEI0yrFSgNPtNGHov6B9YcT63jq?usp=sharing)
